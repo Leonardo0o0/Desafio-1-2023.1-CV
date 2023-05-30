@@ -1,0 +1,35 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+html {
+    background-color: #F4F4F4;
+}
+
+.secoes {
+    color: #F0A500
+}
+
+.cabecalho {
+    color: #CF7500
+}
+
+.texto {
+    color: #1A1C20
+}
+
+.tabela {
+    text-align: left;
+}
+
+.link {
+    color: #1A1C20
+}
+
+A:link {
+    color: #1A1C20
+}
+
+A:hover {
+    color: #F0A500
+}
